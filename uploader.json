@@ -1584,6 +1584,11 @@
             "symbolic_name": "etc_journald_conf_d"
         },
         {
+            "file": "/etc/etcd/etcd.conf",
+            "pattern": [],
+            "symbolic_name": "etcd_conf"
+        },
+        {
             "file": "/etc/fstab",
             "pattern": [],
             "symbolic_name": "fstab"
